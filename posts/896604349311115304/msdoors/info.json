@@ -1,11 +1,19 @@
 {
   "id": 1,
-  "title": "Msdoors",
-  "description": "Msdoors 2023 > Msdoors 2025",
+  "title": "Msdoors V2 100% rial",
+  "description": "The Best script for doors!",
   "image": "https://msdoors.vercel.app/favicon.ico",
+  "bannerUrl": "https://msdoors.vercel.app/favicon.ico",
   "downloadUrl": "",
   "verified": true,
   "fixed": true,
   "author": "Rhyan57",
-  "authorId": "896604349311115304"
+  "authorId": "896604349311115304",
+  "userId": "896604349311115304",
+  "category": "Movement",
+  "tags": ["movement", "roblox"],
+  "createdAt": "2024-01-15T10:30:00Z",
+  "updatedAt": "2024-02-01T14:20:00Z",
+  "downloads": 0,
+  "likes": 0
 }
